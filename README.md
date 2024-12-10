@@ -7,9 +7,9 @@ Trained network for Ellipse detection and vehicle detection:
 [`yolov8n.pt`](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.pt)
 
 # Dataset for vehicle
-Car Object detection dataset: 
+Car Object tracking dataset: 
 
-[car-object-detection](https://www.kaggle.com/code/balraj98/yolo-v5-car-object-detection/input)
+[car-object-tracking](https://drive.google.com/drive/folders/1Xkak8cDZB2WGyJlcsinW2XZ7b7UKOZcN?usp=sharing)
 
 ## Acknowledgements
 
