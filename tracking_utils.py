@@ -187,7 +187,7 @@ def create_images_circles(coordinates, image, color, thickness=3):
     return image
 
 
-def create_images_rectangle(coordinates, image, color, marker='--', thickness=3):
+def create_images_rectangle(coordinates, image, color, thickness=3):
     # h,w = image_shape[0],image_shape[1]
     point1 = coordinates[:2].astype(np.int32)
     point2 = coordinates[2:4].astype(np.int32)
